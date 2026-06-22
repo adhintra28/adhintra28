@@ -42,4 +42,4 @@ I like to learn whatever tool fits the project best, but here is what I usually 
 
 ### How to reach me:
 If you want to talk about code, share a cool project, or just say hi, the best place to find me is on LinkedIn!
-* [Connect with me on LinkedIn](https://linkedin.com/in/adhintra-anumanthan)
+[Connect with me on LinkedIn](https://linkedin.com/in/adhintra-anumanthan)
