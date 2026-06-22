@@ -5,6 +5,7 @@
 I'm a 2nd year student obsessed with figuring out how software works under the hood. Outside of school, I spend my time learning new languages and piecing different technologies together. I just really love taking a random idea and making it work.
 
 <br> <!-- Adds a little breathing room before the next section -->
+<br>
 
 ---
 
