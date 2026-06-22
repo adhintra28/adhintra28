@@ -22,7 +22,23 @@ I like to learn whatever tool fits the project best, but here is what I usually 
 * **Databases:** PostgreSQL, Redis, and Prisma ORM
 * **Exploring:** Docker, vector databases, and trying out different ways to connect and orchestrate large language models in my code.
 
+![Static Badge](https://img.shields.io/badge/Typescript-black?logo=typescript)
+![Static Badge](https://img.shields.io/badge/python-red?logo=python)
+![Static Badge](https://img.shields.io/badge/go-orange?logo=go)
+![Static Badge](https://img.shields.io/badge/postgresql-white?logo=postgresql)
+![Static Badge](https://img.shields.io/badge/next.js-orange?logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/next.js-purple?logo=react)
+![Static Badge](https://img.shields.io/badge/next.js-blue?logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/fastapi-white?logo=fastapi)
+![Static Badge](https://img.shields.io/badge/redis-purple?logo=redis)
+![Static Badge](https://img.shields.io/badge/prisma-black?logo=prisma)
+![Static Badge](https://img.shields.io/badge/Docker-pink?logo=docker)
+![Static Badge](https://img.shields.io/badge/VectorDB-red?logo=postgresql)
 
+
+
+
+---
 
 ### How to reach me:
 If you want to talk about code, share a cool project, or just say hi, the best place to find me is on LinkedIn!
