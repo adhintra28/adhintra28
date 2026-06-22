@@ -1,6 +1,8 @@
 # Hey, I'm Adhintra 👋
 
-
+<p align="center">
+  <img src="https://tenor.com/l0wsJQYbtX1.gif" width="250" alt="Snoozy Keyboard Cat">
+</p>
 
 ### Who am I?
 I'm a 2nd year student obsessed with figuring out how software works under the hood. Outside of school, I spend my time learning new languages and piecing different technologies together. I just really love taking a random idea and making it work.
@@ -22,24 +24,23 @@ I like to learn whatever tool fits the project best, but here is what I usually 
 * **Databases:** PostgreSQL, Redis, and Prisma ORM
 * **Exploring:** Docker, vector databases, and trying out different ways to connect and orchestrate large language models in my code.
 
-![Static Badge](https://img.shields.io/badge/Typescript-black?logo=typescript)
-![Static Badge](https://img.shields.io/badge/python-red?logo=python)
-![Static Badge](https://img.shields.io/badge/go-orange?logo=go)
-![Static Badge](https://img.shields.io/badge/postgresql-white?logo=postgresql)
-![Static Badge](https://img.shields.io/badge/next.js-orange?logo=nextdotjs)
-![Static Badge](https://img.shields.io/badge/react-purple?logo=react)
-![Static Badge](https://img.shields.io/badge/node.js-blue?logo=nodedotjs)
-![Static Badge](https://img.shields.io/badge/fastapi-white?logo=fastapi)
-![Static Badge](https://img.shields.io/badge/redis-purple?logo=redis)
-![Static Badge](https://img.shields.io/badge/prisma-black?logo=prisma)
-![Static Badge](https://img.shields.io/badge/Docker-pink?logo=docker)
-![Static Badge](https://img.shields.io/badge/VectorDB-red?logo=postgresql)
-
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Typescript-black?logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/python-red?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/go-orange?logo=go" alt="Go">
+  <img src="https://img.shields.io/badge/postgresql-white?logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/next.js-orange?logo=nextdotjs" alt="Next.js">
+  <img src="https://img.shields.io/badge/react-purple?logo=react" alt="React">
+  <img src="https://img.shields.io/badge/node.js-blue?logo=nodedotjs" alt="Node.js">
+  <img src="https://img.shields.io/badge/fastapi-white?logo=fastapi" alt="FastAPI">
+  <img src="https://img.shields.io/badge/redis-purple?logo=redis" alt="Redis">
+  <img src="https://img.shields.io/badge/prisma-black?logo=prisma" alt="Prisma">
+  <img src="https://img.shields.io/badge/Docker-pink?logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/VectorDB-red?logo=postgresql" alt="VectorDB">
+</p>
 
 ---
 
 ### How to reach me:
 If you want to talk about code, share a cool project, or just say hi, the best place to find me is on LinkedIn!
-  [Connect with me on LinkedIn](https://linkedin.com/in/adhintra-anumanthan)
+[Connect with me on LinkedIn](https://linkedin.com/in/adhintra-anumanthan)
