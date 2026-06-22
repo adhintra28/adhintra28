@@ -1,11 +1,10 @@
 # Hey, I'm Adhintra 👋
 
-<p align="center">
-  <img src="https://tenor.com/l0wsJQYbtX1.gif" width="250" alt="Snoozy Keyboard Cat">
-</p>
-
 ### Who am I?
+<img align="right" src="https://github.com/user-attachments/assets/919ac2a8-68dc-4a68-92e0-be59ba2c3729" width="150" height="110" alt="Amor Cat">
 I'm a 2nd year student obsessed with figuring out how software works under the hood. Outside of school, I spend my time learning new languages and piecing different technologies together. I just really love taking a random idea and making it work.
+
+<br> <!-- Adds a little breathing room before the next section -->
 
 ---
 
